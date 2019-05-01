@@ -1,0 +1,16 @@
+[
+	{
+		"model": "Book",
+		"data": {
+			"id": 1,
+			"name": "book-1"
+		}
+	},
+	{
+		"model": "Book",
+		"data": {
+			"id": 2,
+			"name": "book-2"
+		}
+	}
+]
